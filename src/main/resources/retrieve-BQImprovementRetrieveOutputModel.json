@@ -1,0 +1,23 @@
+{
+  "improvementRetrieveActionTaskReference" : "IRATR755039",
+  "improvementRetrieveActionTaskRecord" : {},
+  "improvementRetrieveActionResponse" : "improvementRetrieveActionResponse",
+  "improvementInstanceReport" : {
+    "improvementInstanceReportParameters" : "improvementInstanceReportParameters",
+    "improvementInstanceReport" : {},
+    "improvementInstanceReportType" : "improvementInstanceReportType",
+    "improvementInstanceReportRecord" : {}
+  },
+  "improvementInstanceRecord" : {
+    "financialMarketInformationImprovementTaskType" : "financialMarketInformationImprovementTaskType",
+    "financialMarketInformationImprovementTaskSources" : "financialMarketInformationImprovementTaskSources",
+    "financialMarketInformationImprovementTaskWorkProducts" : "financialMarketInformationImprovementTaskWorkProducts",
+    "financialMarketInformationImprovementTaskResult" : "financialMarketInformationImprovementTaskResult"
+  },
+  "improvementInstanceAnalysis" : {
+    "improvementInstanceAnalysisRecord" : {},
+    "improvementInstanceAnalysisReportType" : "improvementInstanceAnalysisReportType",
+    "improvementInstanceAnalysisReport" : {},
+    "improvementInstanceAnalysisParameters" : "improvementInstanceAnalysisParameters"
+  }
+}

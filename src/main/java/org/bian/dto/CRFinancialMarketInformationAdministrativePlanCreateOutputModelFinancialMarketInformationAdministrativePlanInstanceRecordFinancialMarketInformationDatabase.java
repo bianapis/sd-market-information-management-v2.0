@@ -1,0 +1,33 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.CRFinancialMarketInformationAdministrativePlanCreateOutputModelFinancialMarketInformationAdministrativePlanInstanceRecordFinancialMarketInformationDatabaseFinancialMarketInformationSubjectArea;
+
+import javax.validation.Valid;
+  
+/**
+ * CRFinancialMarketInformationAdministrativePlanCreateOutputModelFinancialMarketInformationAdministrativePlanInstanceRecordFinancialMarketInformationDatabase
+ */
+public class CRFinancialMarketInformationAdministrativePlanCreateOutputModelFinancialMarketInformationAdministrativePlanInstanceRecordFinancialMarketInformationDatabase   {
+  private CRFinancialMarketInformationAdministrativePlanCreateOutputModelFinancialMarketInformationAdministrativePlanInstanceRecordFinancialMarketInformationDatabaseFinancialMarketInformationSubjectArea financialMarketInformationSubjectArea = null;
+
+
+  /**
+   * Get financialMarketInformationSubjectArea
+   * @return financialMarketInformationSubjectArea
+  **/
+
+  public CRFinancialMarketInformationAdministrativePlanCreateOutputModelFinancialMarketInformationAdministrativePlanInstanceRecordFinancialMarketInformationDatabaseFinancialMarketInformationSubjectArea getFinancialMarketInformationSubjectArea() {
+    return financialMarketInformationSubjectArea;
+  }
+
+  public void setFinancialMarketInformationSubjectArea(CRFinancialMarketInformationAdministrativePlanCreateOutputModelFinancialMarketInformationAdministrativePlanInstanceRecordFinancialMarketInformationDatabaseFinancialMarketInformationSubjectArea financialMarketInformationSubjectArea) {
+    this.financialMarketInformationSubjectArea = financialMarketInformationSubjectArea;
+  }
+
+
+}
+

@@ -1,0 +1,21 @@
+{
+  "consolidationInstanceReport" : {
+    "consolidationInstanceReportType" : "consolidationInstanceReportType",
+    "consolidationInstanceReport" : {},
+    "consolidationInstanceReportParameters" : "consolidationInstanceReportParameters",
+    "consolidationInstanceReportRecord" : {}
+  },
+  "consolidationInstanceAnalysis" : {
+    "consolidationInstanceAnalysisReportType" : "consolidationInstanceAnalysisReportType",
+    "consolidationInstanceAnalysisParameters" : "consolidationInstanceAnalysisParameters",
+    "consolidationInstanceAnalysisRecord" : {},
+    "consolidationInstanceAnalysisReport" : {}
+  },
+  "consolidationInstanceRecord" : {
+    "financialMarketInformationServiceReport" : {},
+    "financialMarketInformationServiceReportProperties" : "financialMarketInformationServiceReportProperties"
+  },
+  "consolidationRetrieveActionTaskRecord" : {},
+  "consolidationRetrieveActionResponse" : "consolidationRetrieveActionResponse",
+  "consolidationRetrieveActionTaskReference" : "CRATR733567"
+}

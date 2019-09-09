@@ -1,0 +1,42 @@
+{
+  "reportingInstanceRecord" : {
+    "financialMarketInformationReport" : {
+      "financialMarketInformationReportSchedule" : "financialMarketInformationReportSchedule",
+      "financialMarketInformationReportAccessHistory" : "financialMarketInformationReportAccessHistory",
+      "financialMarketInformationReport" : {},
+      "financialMarketInformationReportDescription" : "financialMarketInformationReportDescription",
+      "financialMarketInformationReportType" : "financialMarketInformationReportType"
+    }
+  },
+  "reportingRetrieveActionTaskReference" : "RRATR737812",
+  "reportingRetrieveActionResponse" : "reportingRetrieveActionResponse",
+  "financialMarketInformationAdministrativePlanInstanceRecord" : {
+    "financialMarketInformationDatabase" : {
+      "financialMarketInformationSubjectArea" : {
+        "financialMarketInformationSubjectAreaRecord" : {},
+        "financialMarketInformationSubjectAreaUpdateHistory" : "financialMarketInformationSubjectAreaUpdateHistory",
+        "financialMarketInformationSubjectAreaDescription" : "financialMarketInformationSubjectAreaDescription"
+      }
+    },
+    "financialMarketInformationService" : {
+      "financialMarketInformationServiceAgreement" : "financialMarketInformationServiceAgreement",
+      "financialMarketInformationProvider" : "financialMarketInformationProvider",
+      "financialMarketInformationServiceType" : "financialMarketInformationServiceType",
+      "financialMarketInformationServiceSchedule" : "financialMarketInformationServiceSchedule",
+      "financialMarketinformationDescription" : "financialMarketinformationDescription"
+    }
+  },
+  "reportingRetrieveActionTaskRecord" : {},
+  "reportingInstanceReport" : {
+    "reportingInstanceReportType" : "reportingInstanceReportType",
+    "reportingInstanceReportRecord" : {},
+    "reportingInstanceReport" : {},
+    "reportingInstanceReportParameters" : "reportingInstanceReportParameters"
+  },
+  "reportingInstanceAnalysis" : {
+    "reportingInstanceAnalysisRecord" : {},
+    "reportingInstanceAnalysisParameters" : "reportingInstanceAnalysisParameters",
+    "reportingInstanceAnalysisReportType" : "reportingInstanceAnalysisReportType",
+    "reportingInstanceAnalysisReport" : {}
+  }
+}

@@ -1,0 +1,50 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.CRFinancialMarketInformationAdministrativePlanCreateInputModelFinancialMarketInformationAdministrativePlanInstanceRecordFinancialMarketInformationService;
+import org.bian.dto.CRFinancialMarketInformationAdministrativePlanCreateOutputModelFinancialMarketInformationAdministrativePlanInstanceRecordFinancialMarketInformationDatabase;
+
+import javax.validation.Valid;
+  
+/**
+ * CRFinancialMarketInformationAdministrativePlanCreateOutputModelFinancialMarketInformationAdministrativePlanInstanceRecord
+ */
+public class CRFinancialMarketInformationAdministrativePlanCreateOutputModelFinancialMarketInformationAdministrativePlanInstanceRecord   {
+  private CRFinancialMarketInformationAdministrativePlanCreateInputModelFinancialMarketInformationAdministrativePlanInstanceRecordFinancialMarketInformationService financialMarketInformationService = null;
+
+  private CRFinancialMarketInformationAdministrativePlanCreateOutputModelFinancialMarketInformationAdministrativePlanInstanceRecordFinancialMarketInformationDatabase financialMarketInformationDatabase = null;
+
+
+  /**
+   * Get financialMarketInformationService
+   * @return financialMarketInformationService
+  **/
+
+  public CRFinancialMarketInformationAdministrativePlanCreateInputModelFinancialMarketInformationAdministrativePlanInstanceRecordFinancialMarketInformationService getFinancialMarketInformationService() {
+    return financialMarketInformationService;
+  }
+
+  public void setFinancialMarketInformationService(CRFinancialMarketInformationAdministrativePlanCreateInputModelFinancialMarketInformationAdministrativePlanInstanceRecordFinancialMarketInformationService financialMarketInformationService) {
+    this.financialMarketInformationService = financialMarketInformationService;
+  }
+
+
+  /**
+   * Get financialMarketInformationDatabase
+   * @return financialMarketInformationDatabase
+  **/
+
+  public CRFinancialMarketInformationAdministrativePlanCreateOutputModelFinancialMarketInformationAdministrativePlanInstanceRecordFinancialMarketInformationDatabase getFinancialMarketInformationDatabase() {
+    return financialMarketInformationDatabase;
+  }
+
+  public void setFinancialMarketInformationDatabase(CRFinancialMarketInformationAdministrativePlanCreateOutputModelFinancialMarketInformationAdministrativePlanInstanceRecordFinancialMarketInformationDatabase financialMarketInformationDatabase) {
+    this.financialMarketInformationDatabase = financialMarketInformationDatabase;
+  }
+
+
+}
+

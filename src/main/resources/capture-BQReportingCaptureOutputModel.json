@@ -1,0 +1,11 @@
+{
+  "reportingInstanceRecord" : {
+    "financialMarketInformationReport" : {
+      "financialMarketInformationReportAccessHistory" : "financialMarketInformationReportAccessHistory"
+    }
+  },
+  "reportingCaptureRecordReference" : "RCRR795659",
+  "reportingCaptureActionTaskReference" : "RCATR728361",
+  "reportingCaptureActionTaskRecord" : {},
+  "captureResponseRecord" : {}
+}

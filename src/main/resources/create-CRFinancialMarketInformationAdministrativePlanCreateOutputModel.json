@@ -1,0 +1,22 @@
+{
+  "financialMarketInformationAdministrativePlanCreateActionReference" : "FMIAPCAR773443",
+  "financialMarketInformationAdministrativePlanInstanceRecord" : {
+    "financialMarketInformationDatabase" : {
+      "financialMarketInformationSubjectArea" : {
+        "financialMarketInformationSubjectAreaRecord" : {},
+        "financialMarketInformationSubjectAreaUpdateHistory" : "financialMarketInformationSubjectAreaUpdateHistory",
+        "financialMarketInformationSubjectAreaDescription" : "financialMarketInformationSubjectAreaDescription"
+      }
+    },
+    "financialMarketInformationService" : {
+      "financialMarketInformationServiceAgreement" : "financialMarketInformationServiceAgreement",
+      "financialMarketInformationProvider" : "financialMarketInformationProvider",
+      "financialMarketInformationServiceType" : "financialMarketInformationServiceType",
+      "financialMarketInformationServiceSchedule" : "financialMarketInformationServiceSchedule",
+      "financialMarketinformationDescription" : "financialMarketinformationDescription"
+    }
+  },
+  "financialMarketInformationAdministrativePlanInstanceStatus" : "financialMarketInformationAdministrativePlanInstanceStatus",
+  "financialMarketInformationAdministrativePlanInstanceReference" : "FMIAPIR712973",
+  "financialMarketInformationAdministrativePlanCreateActionRecord" : {}
+}

@@ -1,0 +1,1 @@
+# Market Information Management Service Domain v2.0

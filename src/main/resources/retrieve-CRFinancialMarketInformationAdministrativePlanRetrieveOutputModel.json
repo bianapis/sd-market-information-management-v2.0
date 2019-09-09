@@ -1,0 +1,31 @@
+{
+  "financialMarketInformationAdministrativePlanInstanceAnalysis" : {
+    "financialMarketInformationAdministrativePlanInstanceAnalysisData" : "financialMarketInformationAdministrativePlanInstanceAnalysisData",
+    "financialMarketInformationAdministrativePlanInstanceAnalysisReportType" : "financialMarketInformationAdministrativePlanInstanceAnalysisReportType",
+    "financialMarketInformationAdministrativePlanInstanceAnalysisReport" : {}
+  },
+  "financialMarketInformationAdministrativePlanInstanceRecord" : {
+    "financialMarketInformationDatabase" : {
+      "financialMarketInformationSubjectArea" : {
+        "financialMarketInformationSubjectAreaRecord" : {},
+        "financialMarketInformationSubjectAreaUpdateHistory" : "financialMarketInformationSubjectAreaUpdateHistory",
+        "financialMarketInformationSubjectAreaDescription" : "financialMarketInformationSubjectAreaDescription"
+      }
+    },
+    "financialMarketInformationService" : {
+      "financialMarketInformationServiceAgreement" : "financialMarketInformationServiceAgreement",
+      "financialMarketInformationProvider" : "financialMarketInformationProvider",
+      "financialMarketInformationServiceType" : "financialMarketInformationServiceType",
+      "financialMarketInformationServiceSchedule" : "financialMarketInformationServiceSchedule",
+      "financialMarketinformationDescription" : "financialMarketinformationDescription"
+    }
+  },
+  "financialMarketInformationAdministrativePlanRetrieveActionResponse" : "financialMarketInformationAdministrativePlanRetrieveActionResponse",
+  "financialMarketInformationAdministrativePlanRetrieveActionTaskRecord" : {},
+  "financialMarketInformationAdministrativePlanInstanceReportRecord" : {
+    "financialMarketInformationAdministrativePlanInstanceReportData" : "financialMarketInformationAdministrativePlanInstanceReportData",
+    "financialMarketInformationAdministrativePlanInstanceReport" : {},
+    "financialMarketInformationAdministrativePlanInstanceReportType" : "financialMarketInformationAdministrativePlanInstanceReportType"
+  },
+  "financialMarketInformationAdministrativePlanRetrieveActionTaskReference" : "FMIAPRATR712729"
+}

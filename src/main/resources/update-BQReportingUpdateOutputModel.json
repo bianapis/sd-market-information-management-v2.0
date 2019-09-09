@@ -1,0 +1,30 @@
+{
+  "reportingInstanceRecord" : {
+    "financialMarketInformationReport" : {
+      "financialMarketInformationReportSchedule" : "financialMarketInformationReportSchedule",
+      "financialMarketInformationReportAccessHistory" : "financialMarketInformationReportAccessHistory",
+      "financialMarketInformationReport" : {},
+      "financialMarketInformationReportDescription" : "financialMarketInformationReportDescription",
+      "financialMarketInformationReportType" : "financialMarketInformationReportType"
+    }
+  },
+  "financialMarketInformationAdministrativePlanInstanceRecord" : {
+    "financialMarketInformationDatabase" : {
+      "financialMarketInformationSubjectArea" : {
+        "financialMarketInformationSubjectAreaRecord" : {},
+        "financialMarketInformationSubjectAreaUpdateHistory" : "financialMarketInformationSubjectAreaUpdateHistory",
+        "financialMarketInformationSubjectAreaDescription" : "financialMarketInformationSubjectAreaDescription"
+      }
+    },
+    "financialMarketInformationService" : {
+      "financialMarketInformationServiceAgreement" : "financialMarketInformationServiceAgreement",
+      "financialMarketInformationProvider" : "financialMarketInformationProvider",
+      "financialMarketInformationServiceType" : "financialMarketInformationServiceType",
+      "financialMarketInformationServiceSchedule" : "financialMarketInformationServiceSchedule",
+      "financialMarketinformationDescription" : "financialMarketinformationDescription"
+    }
+  },
+  "updateResponseRecord" : {},
+  "reportingUpdateActionTaskRecord" : {},
+  "reportingUpdateActionTaskReference" : "RUATR702183"
+}
